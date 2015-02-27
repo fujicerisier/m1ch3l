@@ -31,7 +31,20 @@ Quand le rythme s'accélère
 De la pierre pierre pierre pierre pierre
 Ces sentiments, c'est comme manger le fromage râpé avec les doigts ?
 Je sais déjà faire la ratatouille, les endives au jambon, le gratin et plein d'autres plats qui n'ont rien à voir avec une bonne purée.
-Quel est votre secret ?"
+Quel est votre secret ?
+Salam aleykoum koum, c'est le kiff dans le club du désert
+De l'amour, un très bon DJ, un jus de pomme et j'ai enfin la paix
+Une corde cosmique se forme lors d'une transition de phase dans l'univers primordial résultant d'une brisure spontanée de symétrie
+Oui c'est ça, un peu de sport, je ne savais plus comment brûler ma nourriture et mon oxygène
+Il satisfait de nombreux utilisateurs, qui pratiquent aussi bien en mer qu'en rivière
+Ok, je vais essayer le 5ème niveau de difficulté
+Ho non encore une révélation mystique
+Je suis fait de protons et d'électrons en orbite dans mon corps
+Je suis une galaxie constituée de milliards de systèmes solaires
+Notre matière est une multitude de planètes
+J'ai compris la physique quantique à échelle macroscopique
+Vous le sentez, oui, nous sommes tous des galaxies, c'est la Voie lactée
+Faut du cran pour mettre ce fond d'écran"
 
 text=$(echo "$paroles" | sort -R | head -1)
 
